@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ImGui">
+      <UniqueIdentifier>{a82cba23-9de0-45c2-b1e3-2eb1666702de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main Entry">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Font">
+      <UniqueIdentifier>{59dff16a-cd93-425c-bf49-17a521b59996}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cheat">
+      <UniqueIdentifier>{42d6709a-8feb-459e-8920-cc61c610ff3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cheat\Rendering">
+      <UniqueIdentifier>{984d11e0-8924-4934-afd5-9a5dba5b96ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cheat\Communication">
+      <UniqueIdentifier>{89b44404-42fd-4aa2-b0e3-b1b7bfea401a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cheat\Core">
+      <UniqueIdentifier>{e69f2a4d-4489-465a-8e34-052ee46dd2c5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Main Entry</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\imgui.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\imgui_demo.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\imgui_draw.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\imgui_tables.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\imgui_widgets.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\backends\imgui_impl_dx9.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\backends\imgui_impl_win32.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\imconfig.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\imgui.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\imgui_internal.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="FA.h">
+      <Filter>Font</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\backends\imgui_impl_dx9.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\backends\imgui_impl_win32.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Interface.h">
+      <Filter>Cheat\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Communication.h">
+      <Filter>Cheat\Communication</Filter>
+    </ClInclude>
+    <ClInclude Include="Globals.h">
+      <Filter>Cheat\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Offsets.h">
+      <Filter>Cheat\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK.h">
+      <Filter>Cheat\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Cache.h">
+      <Filter>Cheat\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Settings.h">
+      <Filter>Cheat\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="ESP.h">
+      <Filter>Cheat\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Xorstr.h">
+      <Filter>Cheat\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Json.h">
+      <Filter>Cheat\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Vuln.h">
+      <Filter>Cheat\Communication</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\README.txt" />
+    <None Include="..\..\misc\debuggers\imgui.natvis">
+      <Filter>ImGui</Filter>
+    </None>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="physmeme-lib.lib" />
+  </ItemGroup>
+</Project>

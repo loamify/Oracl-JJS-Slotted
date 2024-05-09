@@ -1,0 +1,528 @@
+﻿  start.cpp
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\mod\ue5.h(21,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'start.cpp')
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\mod\ue5.h(21,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'start.cpp')
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\mod\ue5.h(21,113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'start.cpp')
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(26,1): warning C4005: 'IMGUI_VERSION': macro redefinition
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(28,1):
+  see previous definition of 'IMGUI_VERSION'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(27,1): warning C4005: 'IMGUI_VERSION_NUM': macro redefinition
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(29,1):
+  see previous definition of 'IMGUI_VERSION_NUM'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(259,1): error C2011: 'ImVec2': 'struct' type redefinition
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(260,8):
+  see declaration of 'ImVec2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(272,1): error C2011: 'ImVec4': 'struct' type redefinition
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(273,8):
+  see declaration of 'ImVec4'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(293,76): error C2572: 'ImGui::CreateContext': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(295,29):
+  see declaration of 'ImGui::CreateContext'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(294,64): error C2572: 'ImGui::DestroyContext': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(296,29):
+  see declaration of 'ImGui::DestroyContext'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(307,59): error C2572: 'ImGui::ShowDemoWindow': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(309,29):
+  see declaration of 'ImGui::ShowDemoWindow'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(308,62): error C2572: 'ImGui::ShowMetricsWindow': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(310,29):
+  see declaration of 'ImGui::ShowMetricsWindow'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(309,63): error C2572: 'ImGui::ShowDebugLogWindow': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(311,29):
+  see declaration of 'ImGui::ShowDebugLogWindow'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(311,60): error C2572: 'ImGui::ShowAboutWindow': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(313,29):
+  see declaration of 'ImGui::ShowAboutWindow'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(312,63): error C2572: 'ImGui::ShowStyleEditor': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(314,29):
+  see declaration of 'ImGui::ShowStyleEditor'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(319,63): error C2572: 'ImGui::StyleColorsDark': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(321,29):
+  see declaration of 'ImGui::StyleColorsDark'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(320,64): error C2572: 'ImGui::StyleColorsLight': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(322,29):
+  see declaration of 'ImGui::StyleColorsLight'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(321,66): error C2572: 'ImGui::StyleColorsClassic': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(323,29):
+  see declaration of 'ImGui::StyleColorsClassic'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(335,68): error C2572: 'ImGui::Begin': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(337,29):
+  see declaration of 'ImGui::Begin'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(335,99): error C2572: 'ImGui::Begin': redefinition of default argument: parameter 2
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(337,29):
+  see declaration of 'ImGui::Begin'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(356,88): error C2027: use of undefined type 'ImVec2'
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(260,8):
+  see declaration of 'ImVec2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(357,80): error C2027: use of undefined type 'ImVec2'
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(260,8):
+  see declaration of 'ImVec2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(364,69): error C2572: 'ImGui::IsWindowFocused': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(356,29):
+  see declaration of 'ImGui::IsWindowFocused'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(365,69): error C2572: 'ImGui::IsWindowHovered': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(357,29):
+  see declaration of 'ImGui::IsWindowHovered'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(374,114): error C2027: use of undefined type 'ImVec2'
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(260,8):
+  see declaration of 'ImVec2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(374,82): error C2572: 'ImGui::SetNextWindowPos': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(366,29):
+  see declaration of 'ImGui::SetNextWindowPos'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(375,84): error C2572: 'ImGui::SetNextWindowSize': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(367,29):
+  see declaration of 'ImGui::SetNextWindowSize'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(376,142): error C2572: 'ImGui::SetNextWindowSizeConstraints': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(368,29):
+  see declaration of 'ImGui::SetNextWindowSizeConstraints'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(376,177): error C2572: 'ImGui::SetNextWindowSizeConstraints': redefinition of default argument: parameter 2
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(368,29):
+  see declaration of 'ImGui::SetNextWindowSizeConstraints'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(378,85): error C2572: 'ImGui::SetNextWindowCollapsed': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(370,29):
+  see declaration of 'ImGui::SetNextWindowCollapsed'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(382,78): error C2572: 'ImGui::SetWindowPos': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(374,29):
+  see declaration of 'ImGui::SetWindowPos'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(383,80): error C2572: 'ImGui::SetWindowSize': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(375,29):
+  see declaration of 'ImGui::SetWindowSize'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(384,81): error C2572: 'ImGui::SetWindowCollapsed': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(376,29):
+  see declaration of 'ImGui::SetWindowCollapsed'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(387,96): error C2572: 'ImGui::SetWindowPos': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(379,29):
+  see declaration of 'ImGui::SetWindowPos'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(388,98): error C2572: 'ImGui::SetWindowSize': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(380,29):
+  see declaration of 'ImGui::SetWindowSize'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(389,99): error C2572: 'ImGui::SetWindowCollapsed': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(381,29):
+  see declaration of 'ImGui::SetWindowCollapsed'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(409,67): error C2572: 'ImGui::SetScrollHereX': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(401,29):
+  see declaration of 'ImGui::SetScrollHereX'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(410,67): error C2572: 'ImGui::SetScrollHereY': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(402,29):
+  see declaration of 'ImGui::SetScrollHereY'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(411,85): error C2572: 'ImGui::SetScrollFromPosX': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(403,29):
+  see declaration of 'ImGui::SetScrollFromPosX'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(412,85): error C2572: 'ImGui::SetScrollFromPosY': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(404,29):
+  see declaration of 'ImGui::SetScrollFromPosY'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(419,55): error C2572: 'ImGui::PopStyleColor': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(411,29):
+  see declaration of 'ImGui::PopStyleColor'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(422,53): error C2572: 'ImGui::PopStyleVar': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(414,29):
+  see declaration of 'ImGui::PopStyleVar'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(433,70): error C2572: 'ImGui::PushTextWrapPos': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(425,29):
+  see declaration of 'ImGui::PushTextWrapPos'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(441,73): error C2572: 'ImGui::GetColorU32': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(433,29):
+  see declaration of 'ImGui::GetColorU32'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(466,64): error C2572: 'ImGui::SameLine': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(446,29):
+  see declaration of 'ImGui::SameLine'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(466,85): error C2572: 'ImGui::SameLine': redefinition of default argument: parameter 2
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(446,29):
+  see declaration of 'ImGui::SameLine'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(470,53): error C2572: 'ImGui::Indent': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(450,29):
+  see declaration of 'ImGui::Indent'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(471,55): error C2572: 'ImGui::Unindent': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(451,29):
+  see declaration of 'ImGui::Unindent'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(501,86): error C2572: 'ImGui::TextUnformatted': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(490,29):
+  see declaration of 'ImGui::TextUnformatted'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(519,83): error C2027: use of undefined type 'ImVec2'
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(260,8):
+  see declaration of 'ImVec2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(521,110): error C2572: 'ImGui::InvisibleButton': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(510,29):
+  see declaration of 'ImGui::InvisibleButton'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(528,90): error C2027: use of undefined type 'ImVec2'
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(260,8):
+  see declaration of 'ImVec2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(528,125): error C2572: 'ImGui::ProgressBar': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(517,29):
+  see declaration of 'ImGui::ProgressBar'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(534,111): error C2027: use of undefined type 'ImVec2'
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(260,8):
+  see declaration of 'ImVec2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(534,145): error C2027: use of undefined type 'ImVec2'
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(260,8):
+  see declaration of 'ImVec2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(534,184): error C2027: use of undefined type 'ImVec4'
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(273,8):
+  see declaration of 'ImVec4'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(534,231): error C2027: use of undefined type 'ImVec4'
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(273,8):
+  see declaration of 'ImVec4'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(535,143): error C2027: use of undefined type 'ImVec2'
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(260,8):
+  see declaration of 'ImVec2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(535,177): error C2027: use of undefined type 'ImVec2'
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(260,8):
+  see declaration of 'ImVec2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(535,214): error C2027: use of undefined type 'ImVec4'
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(273,8):
+  see declaration of 'ImVec4'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(535,259): error C2027: use of undefined type 'ImVec4'
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(273,8):
+  see declaration of 'ImVec4'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(540,110): error C2572: 'ImGui::BeginCombo': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(528,29):
+  see declaration of 'ImGui::BeginCombo'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(542,150): error C2572: 'ImGui::Combo': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(530,29):
+  see declaration of 'ImGui::Combo'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(543,144): error C2572: 'ImGui::Combo': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(531,29):
+  see declaration of 'ImGui::Combo'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(558,84): error C2572: 'ImGui::DragFloat': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(546,29):
+  see declaration of 'ImGui::DragFloat'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(558,104): error C2572: 'ImGui::DragFloat': redefinition of default argument: parameter 2
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(546,29):
+  see declaration of 'ImGui::DragFloat'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(558,124): error C2572: 'ImGui::DragFloat': redefinition of default argument: parameter 3
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(546,29):
+  see declaration of 'ImGui::DragFloat'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(558,151): error C2572: 'ImGui::DragFloat': redefinition of default argument: parameter 4
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(546,29):
+  see declaration of 'ImGui::DragFloat'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(558,184): error C2572: 'ImGui::DragFloat': redefinition of default argument: parameter 5
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(546,29):
+  see declaration of 'ImGui::DragFloat'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(559,87): error C2572: 'ImGui::DragFloat2': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(547,29):
+  see declaration of 'ImGui::DragFloat2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(559,107): error C2572: 'ImGui::DragFloat2': redefinition of default argument: parameter 2
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(547,29):
+  see declaration of 'ImGui::DragFloat2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(559,127): error C2572: 'ImGui::DragFloat2': redefinition of default argument: parameter 3
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(547,29):
+  see declaration of 'ImGui::DragFloat2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(559,154): error C2572: 'ImGui::DragFloat2': redefinition of default argument: parameter 4
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(547,29):
+  see declaration of 'ImGui::DragFloat2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(559,187): error C2572: 'ImGui::DragFloat2': redefinition of default argument: parameter 5
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(547,29):
+  see declaration of 'ImGui::DragFloat2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(560,87): error C2572: 'ImGui::DragFloat3': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(548,29):
+  see declaration of 'ImGui::DragFloat3'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(560,107): error C2572: 'ImGui::DragFloat3': redefinition of default argument: parameter 2
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(548,29):
+  see declaration of 'ImGui::DragFloat3'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(560,127): error C2572: 'ImGui::DragFloat3': redefinition of default argument: parameter 3
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(548,29):
+  see declaration of 'ImGui::DragFloat3'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(560,154): error C2572: 'ImGui::DragFloat3': redefinition of default argument: parameter 4
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(548,29):
+  see declaration of 'ImGui::DragFloat3'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(560,187): error C2572: 'ImGui::DragFloat3': redefinition of default argument: parameter 5
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(548,29):
+  see declaration of 'ImGui::DragFloat3'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(561,87): error C2572: 'ImGui::DragFloat4': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(549,29):
+  see declaration of 'ImGui::DragFloat4'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(561,107): error C2572: 'ImGui::DragFloat4': redefinition of default argument: parameter 2
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(549,29):
+  see declaration of 'ImGui::DragFloat4'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(561,127): error C2572: 'ImGui::DragFloat4': redefinition of default argument: parameter 3
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(549,29):
+  see declaration of 'ImGui::DragFloat4'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(561,154): error C2572: 'ImGui::DragFloat4': redefinition of default argument: parameter 4
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(549,29):
+  see declaration of 'ImGui::DragFloat4'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(561,187): error C2572: 'ImGui::DragFloat4': redefinition of default argument: parameter 5
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(549,29):
+  see declaration of 'ImGui::DragFloat4'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(562,124): error C2572: 'ImGui::DragFloatRange2': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(550,29):
+  see declaration of 'ImGui::DragFloatRange2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(562,144): error C2572: 'ImGui::DragFloatRange2': redefinition of default argument: parameter 2
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(550,29):
+  see declaration of 'ImGui::DragFloatRange2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(562,164): error C2572: 'ImGui::DragFloatRange2': redefinition of default argument: parameter 3
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(550,29):
+  see declaration of 'ImGui::DragFloatRange2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(562,191): error C2572: 'ImGui::DragFloatRange2': redefinition of default argument: parameter 4
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(550,29):
+  see declaration of 'ImGui::DragFloatRange2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(562,224): error C2572: 'ImGui::DragFloatRange2': redefinition of default argument: parameter 5
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(550,29):
+  see declaration of 'ImGui::DragFloatRange2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(562,255): error C2572: 'ImGui::DragFloatRange2': redefinition of default argument: parameter 6
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(550,29):
+  see declaration of 'ImGui::DragFloatRange2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(563,80): error C2572: 'ImGui::DragInt': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(551,29):
+  see declaration of 'ImGui::DragInt'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(563,98): error C2572: 'ImGui::DragInt': redefinition of default argument: parameter 2
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(551,29):
+  see declaration of 'ImGui::DragInt'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(563,113): error C2572: 'ImGui::DragInt': redefinition of default argument: parameter 3
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(551,29):
+  see declaration of 'ImGui::DragInt'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(563,137): error C2572: 'ImGui::DragInt': redefinition of default argument: parameter 4
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(551,29):
+  see declaration of 'ImGui::DragInt'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(563,168): error C2572: 'ImGui::DragInt': redefinition of default argument: parameter 5
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(551,29):
+  see declaration of 'ImGui::DragInt'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(564,83): error C2572: 'ImGui::DragInt2': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(552,29):
+  see declaration of 'ImGui::DragInt2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(564,101): error C2572: 'ImGui::DragInt2': redefinition of default argument: parameter 2
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(552,29):
+  see declaration of 'ImGui::DragInt2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(564,116): error C2572: 'ImGui::DragInt2': redefinition of default argument: parameter 3
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(552,29):
+  see declaration of 'ImGui::DragInt2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(564,140): error C2572: 'ImGui::DragInt2': redefinition of default argument: parameter 4
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(552,29):
+  see declaration of 'ImGui::DragInt2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(564,171): error C2572: 'ImGui::DragInt2': redefinition of default argument: parameter 5
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(552,29):
+  see declaration of 'ImGui::DragInt2'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(565,83): error C2572: 'ImGui::DragInt3': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(553,29):
+  see declaration of 'ImGui::DragInt3'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(565,101): error C2572: 'ImGui::DragInt3': redefinition of default argument: parameter 2
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(553,29):
+  see declaration of 'ImGui::DragInt3'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(565,116): error C2572: 'ImGui::DragInt3': redefinition of default argument: parameter 3
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(553,29):
+  see declaration of 'ImGui::DragInt3'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(565,140): error C2572: 'ImGui::DragInt3': redefinition of default argument: parameter 4
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(553,29):
+  see declaration of 'ImGui::DragInt3'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(565,171): error C2572: 'ImGui::DragInt3': redefinition of default argument: parameter 5
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(553,29):
+  see declaration of 'ImGui::DragInt3'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(566,83): error C2572: 'ImGui::DragInt4': redefinition of default argument: parameter 1
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(554,29):
+  see declaration of 'ImGui::DragInt4'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(566,101): error C2572: 'ImGui::DragInt4': redefinition of default argument: parameter 2
+  (compiling source file 'start.cpp')
+  C:\vcpkg\installed\x64-windows\include\imgui.h(554,29):
+  see declaration of 'ImGui::DragInt4'
+  
+C:\Users\jnerf\Desktop\drv_and_example\drv_and_example\imgui\imgui.h(566,101): error C1003: error count exceeds 100; stopping compilation
+  (compiling source file 'start.cpp')
+  
